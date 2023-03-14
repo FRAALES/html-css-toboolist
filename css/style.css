@@ -13,7 +13,7 @@
 /* Sezione principale */
 
 main{
-    background-color: rgb(237, 224, 224);
+    background-color: hsl(0, 20%, 91%);
 }
 
 .contenitore{
@@ -21,7 +21,20 @@ main{
     border-radius: 0%;
     margin-left: 200px;
     margin-top: 50px;
+    margin-right: 200px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    padding-top: 20px;
 }
+
+.contenitore1{
+    background-color: white;
+    border-radius: 0%;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 1px;
+}
+
 
 /* Sezione bottoni */
 .bottoni{
