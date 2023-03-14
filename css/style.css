@@ -14,6 +14,7 @@
 
 main{
     background-color: hsl(0, 20%, 91%);
+    padding-top: 25px;
 }
 
 .contenitore{
